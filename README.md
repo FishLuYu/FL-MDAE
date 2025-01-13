@@ -1,1 +1,2 @@
 # FL-MDAE
+This repository is the example code for the paper: “A swarm anomaly detection model for IoT UAVs based on a multi-modal denoising autoencoder and federated learning”. This code is implemented using tensorflow. Please cite the following paper: Lu Y, Yang T, Zhao C, et al. A swarm anomaly detection model for IoT UAVs based on a multi-modal denoising autoencoder and federated learning[J]. Computers & Industrial Engineering, 2024, 196: 110454.
